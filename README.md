@@ -1,2 +1,9 @@
-# today-best
-Collect positive energy and improve cognition.
+### 今日最佳
+---
+收集一些富有正能量的热点，简单简洁，令人振奋，发人深省，提高认知！
+
+### Tip
+如果您也想参与并填写你觉得很赞的热点，请提PR！
+
+* 每行为一条，单行请勿超过50个字
+* 我们需要正能量，请遵守
